@@ -1,0 +1,76 @@
+.body{
+    background-color: whitesmoke;
+}
+.reshma{
+   height:410px;
+   width: 320px;
+   padding-bottom:20px;
+   background-color :#ffffff;
+   font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+   font-size:smaller;
+   color:#484848;
+   font-weight: 400; 
+   margin-bottom:20px;
+}  
+.h1{
+    padding-left: 20px;
+    text-align:left;
+}
+.reshu{
+    width:100%;
+    margin-bottom: 0%;
+   
+}
+
+.p{
+    font-weight: 400;
+    font-size:larger;
+    padding:20px;
+    padding-top: 0px;
+    text-align: left;
+
+}
+.prabha{
+    height:560px;
+    width: 320px;
+    padding:20px;
+    background-color :#ECEFDE;
+    font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+    font-size:smaller;
+    color:#484848;
+    font-weight: 400; 
+    margin-bottom:20px;
+    text-align: left;
+}
+.prabhu{
+    width:100%;
+    margin-bottom: 0%;
+   
+}
+.p2{
+    font-weight:400 ;
+    font-size: larger;;
+    padding-top: 0px;
+    text-align: left;
+}
+.prabhas{
+    height:560px;
+    width: 320px;
+    padding:20px;
+    background-color :#F5E3CE;
+    font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+    font-size:smaller;
+    color:#484848;
+    font-weight: 400; 
+    margin-bottom:20px;
+}
+.h2{
+    text-align: left;
+}
+.p1{
+    font-weight: 400;
+    font-size:larger;
+    padding-top: 0px;
+    text-align: left;
+
+}
